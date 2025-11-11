@@ -1,1 +1,2 @@
 1. Ubah statement pada langkah nomor 5 menjadi seperti berikut ini: 'nilaiAkhir.length'. Jalankan program. Aoakah terjadi perubahan? Mengapa demikian? Tidak ada perubahan, karena pada awal variabel, index di isikan 10, dimana index array selalu dimulai dari 0. Jika diubah menjadi nilaiAkhir.length itu sama saja dengan membaca variabel pada nilaiAkhir yaitu i<10.
+2. Apa yang dimaksud dengan kondisi: i < nilaiAkhir.length ? Itu untuk mengetahui sebuah batas pada index atau data yang akan dipakai.
