@@ -1,2 +1,1 @@
-1. Modifikasi kode program pada praktikum percobaan 3 di atas (ArrayRataNilaiXX.java) agar program dapat menampilkan banyaknya mahasiswa yang lulus, yaitu mahasiswa yang memiliki lebih besar dari 70 (>70). Done
-2. Modifikasi program pada praktikum percobaan 3 di atas (ArrayRataNilaiXX.java) sehingga program menerima jumlah elemen berdasarkan input dari pengguna dan mengeluarkan output seperti berikut ini: Done.
+1. Jelaskan maksud dari statement break; pada baris ke-10 kode program percobaan 4 di atas. Break digunakan untuk memberhentikan secara paksa program jika sistem sudah menemukan apa yang di inginkan.
